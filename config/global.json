@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "christest"
+        }, 
+        "christest": {
+            "applicationId": "XBqsuXouAgATDIxZePQFHduuTgOebGwURmvepZMs", 
+            "masterKey": "mUKTmPDTBmHZT2bneSnucNH2TnVuMDNVmzvFfvYq"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
